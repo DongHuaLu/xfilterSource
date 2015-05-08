@@ -1,0 +1,6 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\System\CurrentControlSet\Services\VxD\XPACKET]
+"StaticVxD"="xpacket.vxd"
+"Start"=hex:00
+

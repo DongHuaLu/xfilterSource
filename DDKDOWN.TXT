@@ -1,0 +1,10 @@
+以下是相关开发工具软件的下载链接：
+
+ddk for windows xp:	http://www.playicq.com/ocx/winxpddk.zip
+ddk for windows 2000:	http://www.vckbase.com/tools/drv/win2kddk.exe
+ddk for windows 98:	http://www.vckbase.com/tools/drv/98ddk.exe 
+ddk for windows nt4:	http://www.vckbase.com/tools/drv/nt4ddk.zip
+vtoolsd 3.0:		http://61.153.195.10:8080/download/vtoolsd.zip
+
+下载后进行相应平台的安装就可以了。链接可能会无效，这时只需要到搜索引擎中找一下应该很
+容易找到。
